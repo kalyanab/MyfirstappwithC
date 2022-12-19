@@ -1,0 +1,15 @@
+[Oo]bj
+[Bb]in
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.ncb
+*.log 
+*.DS_Store
+[Tt]humbs.db 
+_ReSharper.*
+*.resharper
+Ankh.NoLoad
+MyFirstAppWithC/.vs/MyFirstAppWithC/FileContentIndex/6a1fa805-de67-4798-acce-0ba98bb7833f.vsidx
+MyFirstAppWithC/MyFirstAppWithC/My Project/AssemblyInfo.vb
